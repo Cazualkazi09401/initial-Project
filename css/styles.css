@@ -1,0 +1,10 @@
+     body{
+      background-color:rgb(102, 160, 150);
+   }
+   hr{
+      border-style: none;
+      border-top-style: dotted;
+      border-color: rgb(102, 70, 70);
+      border-width: 5px;
+      width: 75px;
+   }
