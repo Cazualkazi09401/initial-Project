@@ -1,10 +1,25 @@
-     body{
-      background-color:rgb(102, 160, 150);
+   body
+   {
+      background-color:rgb(150, 197, 189);
    }
-   hr{
+   h1
+   {  
+      color: rgb(82, 140, 194);
+   }
+   h2
+   {
+      color: rgb(194, 119, 194);
+   }
+   h3
+   {
+      color: rgb(119, 119, 156);
+   }
+   hr
+   {
       border-style: none;
       border-top-style: dotted;
-      border-color: rgb(102, 70, 70);
+      border-color: rgb(138, 86, 112);
       border-width: 5px;
       width: 75px;
    }
+   
